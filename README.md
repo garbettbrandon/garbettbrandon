@@ -9,7 +9,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garbettbrandon&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=garbettbrandon&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-
+<br><br><br><br><br><br><br><br><br><br>
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
