@@ -7,5 +7,4 @@
 <h3>My GitHub Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garbettbrandon&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
-<br> 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=garbettbrandon&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
