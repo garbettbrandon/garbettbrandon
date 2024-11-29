@@ -1,7 +1,7 @@
 ## Hi I'm Brandon 👋
 
 - 🔭 I’m currently working on: Nter Solutions
-- 🌱 I’m currently learning WEB Development Full-Stack // Movile Development
+- 🌱 I’m currently learning WEB Development Full-Stack // Mobile Development
 - 📫 How to reach me: garbettbrandon@gmail.com
 
 <h3>My GitHub Stats</h3>
